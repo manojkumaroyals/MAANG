@@ -1,0 +1,9 @@
+/* Add this CSS to your styles.css or a CSS file you're using */
+.image-container {
+    transition: opacity 0.3s;
+  }
+  
+  .image-container:hover {
+    opacity: 0.8; /* Adjust the opacity value as needed */
+  }
+  
