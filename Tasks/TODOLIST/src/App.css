@@ -1,0 +1,46 @@
+/* App.css */
+
+.card {
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+.card-title {
+  font-size: 50px;
+  color: #333;
+}
+.in{
+  font-size: 30px;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button.add {
+  margin-left: 10px;
+  padding: 10px;
+  background-color: #4CAF50; /* Green color */
+  color: white;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 20px;
+  width: 70px;
+}
+
+button.delete{
+  padding: 10px;
+  background-color: #FF0000; /* Red color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
